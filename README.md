@@ -24,10 +24,4 @@ VS Code      2 hrs 59 mins  █████████████████�
 Mac          1 hr 59 mins   ████████████████░░░░░░░░░   66.44 %
 Windows      1 hr           ████████░░░░░░░░░░░░░░░░░   33.56 %
 
-## How to reach me:
-📧 Email: [imramadhani01@gmail.com](mailto:imramadhani01@gmail.com)
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/imamramadhani))
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani61&show_icons=true&theme=radical)
