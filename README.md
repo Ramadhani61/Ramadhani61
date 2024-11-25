@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Imam Ramadhani 👋
 
-<!--
-**Ramadhani61/Ramadhani61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile Views:
+![Profile views](https://komarev.com/ghpvc/?username=Ramadhani61&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+## Code Time
+🕒 **Code Time:** `1 hr 12 mins`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This Week I Spent My Time On
+📍 **Time Zone:** Asia/Jakarta
+
+```text
+🖥️ **Programming Languages:**
+Javascript   1 hr 53 mins   ████████████░░░░░░░░░░░░░   63.33 %
+YAML         31 mins        ███░░░░░░░░░░░░░░░░░░░░░   17.40 %
+Markdown     22 mins        ██░░░░░░░░░░░░░░░░░░░░░░   12.71 %
+JSON         11 mins        █░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Vue.js       0 secs         ░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+
+🔥 **Editors:**
+VS Code      2 hrs 59 mins  █████████████████████████   100.00 %
+
+💻 **Operating System:**
+Mac          1 hr 59 mins   ████████████████░░░░░░░░░   66.44 %
+Windows      1 hr           ████████░░░░░░░░░░░░░░░░░   33.56 %
+
+## How to reach me:
+📧 Email: [imramadhani01@gmail.com](mailto:imramadhani01@gmail.com)
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/imamramadhani))
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani61&show_icons=true&theme=radical)
